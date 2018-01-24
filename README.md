@@ -70,6 +70,10 @@ Through my time as a Web developer I've collected this links and resources. ¡Sh
         
         
         
+## Cheatsheets
+- ### Markdown
+    - [Emoji Cheatsheet](https://gist.github.com/rxaviers/7360908)
+    - [MarkDown CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists)
 ## Tutorials
 - #### Open GL
     - [Animate it on React Native with OpenGL – ProAndroidDev](https://proandroiddev.com/animate-it-on-react-native-with-opengl-b470252166f4)
